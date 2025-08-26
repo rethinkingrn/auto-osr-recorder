@@ -7,5 +7,8 @@ you don't need to already have the map, it will download it automatically
 `main.py {path_to_osr}`
 
 ## requirements
-`requests`
-`osrparser`
+- `requests`
+- `osrparser`
+
+## credits
+- deepseek
